@@ -17,3 +17,4 @@ tox==2.3.0
 markment==0.2.21
 steadymark==0.6.0
 testtools==1.8.1
+certifi>=2024.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
